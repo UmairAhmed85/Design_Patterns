@@ -1,0 +1,7 @@
+/build/
+/.gradle/
+/.idea/modules/Design_Patterns.iml
+/.idea/jarRepositories.xml
+/.idea/kotlinc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
